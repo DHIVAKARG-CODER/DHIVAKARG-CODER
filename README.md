@@ -97,7 +97,7 @@ I am an Information Technology undergraduate passionate about transforming data 
 ## 🌐 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/dhivakar-g-a736a333a
-- GitHub: https://github.com/dhivaavihd2210
+- GitHub: https://github.com/DHIVAKARG-CODER
 - Email: **dhivaavihd2210@gmail.com**
 
 ---
