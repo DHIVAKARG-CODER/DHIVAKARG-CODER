@@ -72,11 +72,14 @@ I am an Information Technology undergraduate passionate about transforming data 
 
 **Tech Stack:** Python, Pandas, NumPy, SQL, Power BI
 
----
+## International Certificates---
+    - Microsoft Certified: Azure AI Fundamentals
+    - Oracle Cloud Infrastructure 2025– Certified Data Science Professional
 
+    
 ## 📜 Certifications
 
-- Oracle Cloud Infrastructure – Certified Data Science Professional
+
 - IBM Artificial Intelligence Fundamentals
 - IBM Communication and Personality Dynamics
 - IBM Problem Solving and Process Control
